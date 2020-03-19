@@ -88,7 +88,7 @@
         Site Preloader
     ----------------------------------------------------*/
     $(window).on('load', function () {
-        $('.site-preloader').fadeOut(500);
+        $('.site-preloader').fadeOut(100);
     });
 
 }(jQuery));
